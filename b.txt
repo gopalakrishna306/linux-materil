@@ -1,0 +1,10 @@
+100:gopala:hyd:100:super
+100:somu:chennai:200:super
+100:raj:vizag:300:super
+100:kesav:hyd:400:super
+100:sam:banglore:500:super
+100:sunder:mumbai:600:super
+100:jama:pune:700:super
+100:rama:hyd:800:super
+100:gopala4:hyd:900:super
+100:gopala6:hyd:900:super
